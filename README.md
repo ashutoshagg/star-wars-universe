@@ -5,7 +5,7 @@
 
 ## **Getting Started**
 
-This section has the information about how to get get started with the Star Wars Universe
+This section has the information about how to get started with the Star Wars Universe
 
 ## **Prerequisites**
 
