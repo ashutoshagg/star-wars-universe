@@ -88,7 +88,7 @@ function App() {
       {
         planet && planet.residents && planet.residents.length > 0 && (
           <PaginatedItems
-            itemsPerPage={3}
+            itemsPerPage={10}
             planet={planet}
             saveResidents={saveResidents}
           />

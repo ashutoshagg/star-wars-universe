@@ -1,5 +1,6 @@
 import React from 'react';
 import { IResident } from '../../types/resident.type';
+import './index.css';
 
 type IProps = {
     residents: IResident[];
