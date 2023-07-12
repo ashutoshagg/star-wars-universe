@@ -10,7 +10,7 @@ class Request {
 
   constructor() {
     this.service = axios.create({
-      timeout: 20000,
+      timeout: 10000,
       headers: {
         "Content-Type": "application/json",
       },
